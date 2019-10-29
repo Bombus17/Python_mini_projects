@@ -1,4 +1,4 @@
-Python mini projects
+### Python mini projects
 
 Solutions to the practice projects listed at: JorgeGonzalez/beginner-projects
 
