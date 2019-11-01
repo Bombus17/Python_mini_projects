@@ -6,10 +6,10 @@ Although I can code in other languages, I am new to Python. This repo contains p
 * Have also included additional projects from other sources
 * Each project increases in level of difficulty (see the main listing for further details)
 
-[99 Bottles](#99-Bottles)
-[Armstrong Number](#Armstrong-Number)
-[Magic 8 Ball](#Magic-8-ball)
-[Pythagorean Triples Checker](#Pythagorean-Triples-Checker)
+* [99 Bottles](#99-Bottles)
+* [Armstrong Number](#Armstrong-Number)
+* [Magic 8 Ball](#Magic-8-ball)
+* [Pythagorean Triples Checker](#Pythagorean-Triples-Checker)
 
 ### 99 Bottles
 A program that uses a built in function to print out every line to the song "99 bottles of beer on the wall." 
