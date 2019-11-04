@@ -27,7 +27,7 @@ A program to check whether a given number is an Armstrong Number. Users may ente
 1. input() function
 2. User prompts
 3. While loops
-4. Using flags
+4. Error Handling
 
 ### Magic 8 Ball
 Simulation of a magic 8-ball. Allow the user to enter their question and display an in progress message.
