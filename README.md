@@ -2,7 +2,7 @@
 
 Although I can code in other languages, I am new to Python. This repo contains projects developed as I extend my Python coding skills.
 Most are sourced from those listed in https://github.com/jorgegonzalez/beginner-projects. 
-Have also included additional projects from other sources. Each project increases in level of difficulty (see the main listing for further details).
+Have also included additional projects. Broadly speaking, each project increases in level of difficulty (see the main listing for further details).
 
 * [99 Bottles](#99-Bottles)
 * [Armstrong Number](#Armstrong-Number)
