@@ -20,7 +20,7 @@ A program that uses a built in function to print out every line to the song "99 
 
 ### Armstrong Number
 An Armstrong Number is any number of n digits which is equal to the sum of nth power of digits in the number. 
-For example: 92727 = 9^5 + 2^5 + 7^5 + 2^5 + 7^5 (where n = 5)
+For example: 92727 = 9^5 + 2^5 + 7^5 + 2^5 + 7^5 (where n = 5).
 A program to check whether a given number is an Armstrong Number. Users may enter multiple tests.
 
 **What I learned:**
@@ -45,12 +45,12 @@ Program includes a GUI where users can enter the following questions:
 4. Lists and arrays
 
 ### Pythagorean Triples Checker
-A Pythagorean triplet is a set of three natural numbers, a < b < c, for which, a² + b² = c².
+A Pythagorean triplet is a set of three natural numbers, a < b < c, for which, a² + b² = c² and (a and b are cathetus and c is the hypotenuse).
 Allows the user to input the sides of any triangle in any order and returns whether the triangle is a Pythagorean Triple or not.
 Users may reuse the program without having to quit.
 
 **What I learned:**
-1. More functions
+1. Sorting
 2. Variables
 3. Nested for loops vs list comprehensions
 
