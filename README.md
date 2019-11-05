@@ -8,6 +8,7 @@ Have also included additional projects. Broadly speaking, each project increases
 * [Armstrong Number](#Armstrong-Number)
 * [Magic 8 Ball](#Magic-8-ball)
 * [Pythagorean Triples Checker](#Pythagorean-Triples-Checker)
+* [Fibonacci Sequence](#Fibonacci-Sequence)
 
 ### 99 Bottles
 A program that uses a built in function to print out every line to the song "99 bottles of beer on the wall." 
@@ -54,6 +55,16 @@ Users may reuse the program without having to quit.
 2. Variables
 3. Nested for loops vs list comprehensions
 
+### Fibonacci Sequence
+Fibonacci numbers (F<sub>n</sub>) form the Fibonacci Sequence where each number is the sum of the two preceeding ones. 
+So for 0 and 1, F<sub>0</sub> = F<sub>1</sub> and for n > 1, F<sub>n</sub> = F<sub>n-1</sub> + F<sub>n-2</sub>; (see also the Golden ratio).
+This program uses a function that allows the user to find the value of the nth term in the sequence by inputting the desired term. 
+There are two solutions; the first using a loop (less performant at as n increases).The second solution uses recursion.
+
+**What I learned:**
+1. If..else statements
+2. While loops
+3. Recursive functions
 
 
 
