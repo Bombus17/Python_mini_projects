@@ -9,6 +9,7 @@ Have also included additional projects. Broadly speaking, each project increases
 * [Magic 8 Ball](#Magic-8-ball)
 * [Pythagorean Triples Checker](#Pythagorean-Triples-Checker)
 * [Fibonacci Sequence](#Fibonacci-Sequence)
+* [Multiplication Tables](#Multiplication-Tables)
 
 ### 99 Bottles
 A program that uses a built in function to print out every line to the song "99 bottles of beer on the wall." 
@@ -66,6 +67,13 @@ There are two solutions; the first using a loop (less performant at as n increas
 2. Parallel assignment
 3. Recursive functions
 4. Performance benchmarks for functions
+
+### Multiplication Tables
+Output a multiplication table in grid format for a given integer. 
+
+**What I learned:**
+1. Nested for loops
+2. Counters
 
 
 
