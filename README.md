@@ -1,4 +1,4 @@
-## Python Mini Project
+## Python Projects
 
 Although I can code in other languages, I am new to Python. This repo contains projects developed as I extend my Python coding skills.
 Most are sourced from those listed in https://github.com/jorgegonzalez/beginner-projects. 
@@ -63,8 +63,9 @@ There are two solutions; the first using a loop (less performant at as n increas
 
 **What I learned:**
 1. If..else statements
-2. While loops
+2. Parallel assignment
 3. Recursive functions
+4. Performance benchmarks for functions
 
 
 
