@@ -9,17 +9,16 @@
 #	Add a gui.
 #	It must have box for users to enter the question.
 #	It must have at least 4 buttons:
-#	ask
-#	clear (the text box)
-#	play again
-#	quit (this must close the window)
+#		ask
+#		clear (the text box)
+#		play again
+#		quit (this must close the window)
 # TODO: finish GUI
 
 
 import random
 import time
 
-print("Welcome to the Magic 8 Ball!")
 
 responses = ["Yes, most definitely!"
 			, "The chances are high!"
@@ -38,15 +37,17 @@ def userquestion():
 	print("\nThinking...\n")
 	time.sleep(random.randrange(0,5))
 	print(random.choice(responses))
-	
-while True: 
-	userquestion()
-	repeat = input("Would you like to ask another question? (y/n)")
-	if not (repeat == "y" or repeat == "Y"):
-		print("\nThank you for playing!")
-		break
-		
 
+def main():
+	print("Welcome to the Magic 8 Ball!")	
+	while True:
+		userquestion()
+		repeat = input("Would you like to ask another question? (y/n)")
+		if not (repeat == "y" or repeat == "Y"):
+			print("\nThank you for playing!")
+			break
+		
+if __name__ == '__main__': main()
 
 
 
