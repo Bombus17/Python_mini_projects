@@ -1,8 +1,11 @@
 ## Python Projects
 
 Although I can code in other languages, I am new to Python. This repo contains projects developed as I extend my Python coding skills.
-Most are sourced from those listed in https://github.com/jorgegonzalez/beginner-projects. 
+Most are sourced from those listed in https://github.com/jorgegonzalez/beginner-projects. I will be adding more items as I progress. 
 Have also included additional projects. Broadly speaking, each project increases in level of difficulty (see the main listing for further details).
+
+**Contributing**
+Feel free to contribute to this repository or other solutions. All feedback welcome. 
 
 * [99 Bottles](#99-Bottles)
 * [Armstrong Number](#Armstrong-Number)
