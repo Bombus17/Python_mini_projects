@@ -1,10 +1,10 @@
-# Authour: 	azmathias Stuperuser Ltd
+# Authour: azmathias Stuperuser Ltd
 # Purpose: Magic 8 Ball
-#			Simulate a magic 8-ball.
-#			Allow the user to enter their question.
-#			Display an in progress message(i.e. "thinking").
-#			Create 20 responses, and show a random response.
-#			Allow the user to ask another question or quit.
+#		Simulate a magic 8-ball.
+#		Allow the user to enter their question.
+#		Display an in progress message(i.e. "thinking").
+#		Create 20 responses, and show a random response.
+#		Allow the user to ask another question or quit.
 # Bonus:
 #	Add a gui.
 #	It must have box for users to enter the question.
@@ -35,7 +35,7 @@ responses = ["Yes, most definitely!"
 def userquestion():
 	question = input("\nYou may ask a question.\n")
 	print("\nThinking...\n")
-	time.sleep(random.randrange(0,5))
+	time.sleep(random.randrange(0,4))
 	print(random.choice(responses))
 
 def main():

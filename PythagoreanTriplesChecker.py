@@ -59,7 +59,7 @@ def main():
 	print(welcome)
 	retest = 0
 	while retest != -1:	
-		side1 = inputSides("Select a value side 1 of the triangle:")
+		side1 = inputSides("Select a value  for side 1 of the triangle:")
 		side2 = inputSides("Select a value for the second side:")
 		side3 = inputSides("Select a value for the final side:")
 		pythag_triple(side1, side2, side3)		
