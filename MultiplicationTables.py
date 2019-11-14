@@ -1,12 +1,27 @@
 # Authour: 	azmathias Stuperuser Ltd
 # Purpose:	A program that prints out a multiplication table up to and including a given number.
-# TODO:		Error handling					
-#  
+# 					
+# 
 
+def inputUpperBound(message):
+	while True:
+		try:
+			userinput = int(input(message))
+		except ValueError:
+			print("\nInput not recognised. Please input an integer:")
+			continue
+		else:
+			return userinput
+			break
 
 def main():
-	print("Multiplication Table Generator \n")
-	rows = int(input("What is the upper bound of multiplication table? "))
+	progName = """
+				**************************************
+				    MULTIPLICATION TABLE GENERATOR
+				**************************************
+			"""
+	print(progName)
+	rows = inputUpperBound("What is the upper bound of multiplication table? ")
 	print("\nThe multiplication table for 2 to", rows)
 	print()
 	counter = 0
