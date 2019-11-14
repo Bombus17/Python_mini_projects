@@ -46,7 +46,7 @@ Program includes a GUI where users can enter the following questions:
 **What I learned:**
 1. Importing modules
 2. Working with classes
-3. Creating a GUI with Ktinker
+3. Creating a GUI with Tkinter
 4. Lists and arrays
 
 ### Pythagorean Triples Checker

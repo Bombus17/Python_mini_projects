@@ -3,6 +3,7 @@
 #Notes:		Solution2: using recursion
 #			[0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181]
 #ToDo: 		Combine solutions so user can choose which method to use in the same program
+#			print sequence as well as nth term (for sequences < 10)
 #
 
 # get nth term to test
