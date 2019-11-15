@@ -4,6 +4,7 @@
 # 			Return whether the triangle is a Pythagorean Triple or not.
 # 			Loop the program so the user can use it more than once without having to restart the program.
 # TODO:		Find a more elegant solution and optimise
+#			Add check to determine whether input values actually form a triangle (A+B>C)
 
 
 import math
