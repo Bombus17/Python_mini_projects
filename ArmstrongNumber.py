@@ -3,6 +3,8 @@
 #			Number x, no of digits = n, if the sum of each digit raised to the power of n is equal to x, the number is an armstrong number (also called narcisstic numbers)		
 # Notes:	Examples of Armstrong Numbers are: 153, 407, 1634 
 
+
+
 # get number to test
 def inputNum(message):
 	while True:
@@ -24,7 +26,6 @@ def armstrongNumcheck(number):
 		digit = resnum % 10
 		sum += digit ** pownum
 		resnum //= 10
-	# return results
 	if number == sum:
 		print(number,"is an Armstrong number")
 	else:
