@@ -22,7 +22,7 @@ def pythag_triple(n0, n1, n2):
 	else:
 		print("\nTriangle {0},{1},{2} is NOT a Pythagorean Triple".format(n0,n1,n2))
 	
-
+# request user input
 def inputSides(message):
 	while True:
 		try:
@@ -34,6 +34,7 @@ def inputSides(message):
 			return userinput
 			break
 
+# determine whether the user wishes to test again
 def retestStatus():
 	question =  "\nType q to quit, or hit <Enter> to test another triple."
 	print(question)
